@@ -9,6 +9,7 @@ Types of linked lists
 1)singly linked list
 2)doubly linked list
 3)circular linked list
+4)circular doubly linked lists.
 
 Representation in c++
 ---------------------
@@ -72,7 +73,9 @@ There are five operations in linked list. They are
 ----------------------------------------------------------------------------------------------------
 Traversal
 ---------
-Traversal means access each element in the linked list.
+-->Traversal means access each element in the linked list.
+-->In other words we can say visiting or touching the elements in the linked list.
+
 How to display the elements?
 
 -->First we create a structure in the program which is represented as struct
