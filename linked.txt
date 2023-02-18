@@ -123,5 +123,7 @@ int n;
  Insertion
  –––––––––
  --> There are thee insertions:
-1)
-  
+1)inserting a node in at the head.
+2)inserting a node in between two nodes.
+3)inserting a node at the end.
+
