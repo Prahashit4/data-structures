@@ -1,5 +1,6 @@
 -->A linked list is a linear data structure that includes a series of connectioned nodes.
 -->Each node stores the data and address of the next node.
+-->In node there two parts. They are one is data and second 
 Example:
 ––––––––
 |head| -> |data|next| -> |data|next| -> ....->NULL
